@@ -1,6 +1,6 @@
 // Perros RC · Mesa de Control — funciona sin señal en la cancha.
 // Red primero (para recibir actualizaciones); si no hay conexión, usa la copia guardada.
-const CACHE = 'perros-mesa-20261118231137';
+const CACHE = 'perros-mesa-20261119193030';
 const FILES = ['./', 'index.html', 'data.bin', 'icon.png', 'manifest.webmanifest'];
 
 self.addEventListener('install', e => {
